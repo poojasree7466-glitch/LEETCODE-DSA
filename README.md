@@ -8,10 +8,12 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -20,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
