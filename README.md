@@ -32,5 +32,10 @@
 ## String
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/1768-merge-strings-alternately) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
