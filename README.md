@@ -10,6 +10,7 @@
 | ------- |
 | [0015-3sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0015-3sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0917-reverse-only-letters) |
