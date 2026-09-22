@@ -20,6 +20,7 @@
 | [0015-3sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0917-reverse-only-letters) |
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/1768-merge-strings-alternately) |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
