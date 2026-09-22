@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -19,6 +20,7 @@
 | ------- |
 | [0015-3sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
@@ -57,4 +59,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
