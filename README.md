@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0633-sum-of-square-numbers) |
 | [2235-add-two-integers](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -30,6 +31,7 @@
 | [0392-is-subsequence](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
