@@ -11,6 +11,7 @@
 | ------- |
 | [0015-3sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0832-flipping-an-image) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0015-3sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
@@ -66,10 +68,12 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -91,4 +95,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0832-flipping-an-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
