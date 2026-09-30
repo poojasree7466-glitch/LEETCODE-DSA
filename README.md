@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0905-sort-array-by-parity) |
@@ -28,6 +29,7 @@
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0541-reverse-string-ii) |
@@ -50,6 +52,7 @@
 | [0015-3sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -104,5 +108,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
