@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0905-sort-array-by-parity) |
@@ -115,4 +116,5 @@
 | [0349-intersection-of-two-arrays](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
