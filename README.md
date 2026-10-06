@@ -13,6 +13,7 @@
 | [0015-3sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0283-move-zeroes) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/poojasree7466-glitch/LEETCODE-DSA/tree/master/0633-sum-of-square-numbers) |
